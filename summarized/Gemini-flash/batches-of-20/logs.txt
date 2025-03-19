@@ -1,0 +1,444 @@
+12:35:10 | INFO  | Starting markdown summarizer
+12:35:10 | INFO  | Found 1008 markdown files to process
+12:35:10 | INFO  | Performing batch summarization of files in groups of 20
+12:35:10 | INFO  | Creating individual batch files without a combined summary
+12:35:10 | INFO  | Processing batch 1/51 (20 files: 1-20)
+12:35:12 | INFO  | Creating batch summary for 20 documents (est. 20760 tokens, 80948 bytes) using gemini-2.0-flash
+12:35:15 | INFO  | Progress: 0.0% (0/1008) | Success: 0 | Errors: 0 | Elapsed: 5s | ETA: 0s
+12:35:20 | INFO  | Progress: 0.0% (0/1008) | Success: 0 | Errors: 0 | Elapsed: 10s | ETA: 0s
+12:35:25 | INFO  | Progress: 0.0% (0/1008) | Success: 0 | Errors: 0 | Elapsed: 15s | ETA: 0s
+12:35:30 | INFO  | Progress: 0.0% (0/1008) | Success: 0 | Errors: 0 | Elapsed: 20s | ETA: 0s
+12:35:34 | INFO  | Summarized content for batch 1 is 17560 characters
+12:35:34 | INFO  | Individual batch summary 1 written to output/batch_summary_1.md
+12:35:34 | INFO  | Processing batch 2/51 (20 files: 21-40)
+12:35:35 | INFO  | Progress: 2.0% (20/1008) | Success: 20 | Errors: 0 | Elapsed: 25s | ETA: 20m 35s
+12:35:36 | INFO  | Creating batch summary for 20 documents (est. 38793 tokens, 153080 bytes) using gemini-2.0-flash
+12:35:40 | INFO  | Progress: 2.0% (20/1008) | Success: 20 | Errors: 0 | Elapsed: 30s | ETA: 24m 42s
+12:35:45 | INFO  | Progress: 2.0% (20/1008) | Success: 20 | Errors: 0 | Elapsed: 35s | ETA: 28m 49s
+12:35:50 | INFO  | Progress: 2.0% (20/1008) | Success: 20 | Errors: 0 | Elapsed: 40s | ETA: 32m 56s
+12:35:53 | INFO  | Summarized content for batch 2 is 17954 characters
+12:35:53 | INFO  | Individual batch summary 2 written to output/batch_summary_2.md
+12:35:53 | INFO  | Processing batch 3/51 (20 files: 41-60)
+12:35:55 | INFO  | Creating batch summary for 20 documents (est. 39955 tokens, 157728 bytes) using gemini-2.0-flash
+12:35:55 | INFO  | Progress: 4.0% (40/1008) | Success: 40 | Errors: 0 | Elapsed: 45s | ETA: 18m 9s
+12:36:00 | INFO  | Progress: 4.0% (40/1008) | Success: 40 | Errors: 0 | Elapsed: 50s | ETA: 20m 10s
+12:36:05 | INFO  | Progress: 4.0% (40/1008) | Success: 40 | Errors: 0 | Elapsed: 55s | ETA: 22m 11s
+12:36:06 | INFO  | Summarized content for batch 3 is 12244 characters
+12:36:06 | INFO  | Individual batch summary 3 written to output/batch_summary_3.md
+12:36:06 | INFO  | Processing batch 4/51 (20 files: 61-80)
+12:36:08 | INFO  | Creating batch summary for 20 documents (est. 27573 tokens, 108200 bytes) using gemini-2.0-flash
+12:36:10 | INFO  | Progress: 6.0% (60/1008) | Success: 60 | Errors: 0 | Elapsed: 1m 0s | ETA: 15m 48s
+12:36:15 | INFO  | Progress: 6.0% (60/1008) | Success: 60 | Errors: 0 | Elapsed: 1m 5s | ETA: 17m 7s
+12:36:20 | INFO  | Progress: 6.0% (60/1008) | Success: 60 | Errors: 0 | Elapsed: 1m 10s | ETA: 18m 26s
+12:36:25 | INFO  | Progress: 6.0% (60/1008) | Success: 60 | Errors: 0 | Elapsed: 1m 15s | ETA: 19m 45s
+12:36:30 | INFO  | Progress: 6.0% (60/1008) | Success: 60 | Errors: 0 | Elapsed: 1m 20s | ETA: 21m 4s
+12:36:31 | INFO  | Summarized content for batch 4 is 18053 characters
+12:36:31 | INFO  | Individual batch summary 4 written to output/batch_summary_4.md
+12:36:31 | INFO  | Processing batch 5/51 (20 files: 81-100)
+12:36:33 | INFO  | Creating batch summary for 20 documents (est. 8015 tokens, 29971 bytes) using gemini-2.0-flash
+12:36:35 | INFO  | Progress: 7.9% (80/1008) | Success: 80 | Errors: 0 | Elapsed: 1m 25s | ETA: 16m 26s
+12:36:40 | INFO  | Progress: 7.9% (80/1008) | Success: 80 | Errors: 0 | Elapsed: 1m 30s | ETA: 17m 24s
+12:36:45 | INFO  | Progress: 7.9% (80/1008) | Success: 80 | Errors: 0 | Elapsed: 1m 35s | ETA: 18m 22s
+12:36:49 | INFO  | Summarized content for batch 5 is 10365 characters
+12:36:49 | INFO  | Individual batch summary 5 written to output/batch_summary_5.md
+12:36:49 | INFO  | Processing batch 6/51 (20 files: 101-120)
+12:36:50 | INFO  | Progress: 9.9% (100/1008) | Success: 100 | Errors: 0 | Elapsed: 1m 40s | ETA: 15m 8s
+12:36:51 | INFO  | Creating batch summary for 20 documents (est. 35013 tokens, 137963 bytes) using gemini-2.0-flash
+12:36:55 | INFO  | Progress: 9.9% (100/1008) | Success: 100 | Errors: 0 | Elapsed: 1m 45s | ETA: 15m 54s
+12:37:00 | INFO  | Progress: 9.9% (100/1008) | Success: 100 | Errors: 0 | Elapsed: 1m 50s | ETA: 16m 39s
+12:37:02 | INFO  | Summarized content for batch 6 is 10800 characters
+12:37:02 | INFO  | Individual batch summary 6 written to output/batch_summary_6.md
+12:37:02 | INFO  | Processing batch 7/51 (20 files: 121-140)
+12:37:04 | INFO  | Creating batch summary for 20 documents (est. 9755 tokens, 36928 bytes) using gemini-2.0-flash
+12:37:05 | INFO  | Progress: 11.9% (120/1008) | Success: 120 | Errors: 0 | Elapsed: 1m 55s | ETA: 14m 11s
+12:37:10 | INFO  | Progress: 11.9% (120/1008) | Success: 120 | Errors: 0 | Elapsed: 2m 0s | ETA: 14m 48s
+12:37:15 | INFO  | Progress: 11.9% (120/1008) | Success: 120 | Errors: 0 | Elapsed: 2m 5s | ETA: 15m 25s
+12:37:19 | INFO  | Summarized content for batch 7 is 11833 characters
+12:37:19 | INFO  | Individual batch summary 7 written to output/batch_summary_7.md
+12:37:19 | INFO  | Processing batch 8/51 (20 files: 141-160)
+12:37:20 | INFO  | Progress: 13.9% (140/1008) | Success: 140 | Errors: 0 | Elapsed: 2m 10s | ETA: 13m 26s
+12:37:21 | INFO  | Creating batch summary for 20 documents (est. 6617 tokens, 24379 bytes) using gemini-2.0-flash
+12:37:25 | INFO  | Progress: 13.9% (140/1008) | Success: 140 | Errors: 0 | Elapsed: 2m 15s | ETA: 13m 57s
+12:37:30 | INFO  | Progress: 13.9% (140/1008) | Success: 140 | Errors: 0 | Elapsed: 2m 20s | ETA: 14m 28s
+12:37:34 | INFO  | Summarized content for batch 8 is 9995 characters
+12:37:34 | INFO  | Individual batch summary 8 written to output/batch_summary_8.md
+12:37:34 | INFO  | Processing batch 9/51 (20 files: 161-180)
+12:37:35 | INFO  | Progress: 15.9% (160/1008) | Success: 160 | Errors: 0 | Elapsed: 2m 25s | ETA: 12m 49s
+12:37:36 | INFO  | Creating batch summary for 20 documents (est. 45280 tokens, 179028 bytes) using gemini-2.0-flash
+12:37:40 | INFO  | Progress: 15.9% (160/1008) | Success: 160 | Errors: 0 | Elapsed: 2m 30s | ETA: 13m 15s
+12:37:44 | INFO  | Summarized content for batch 9 is 9167 characters
+12:37:44 | INFO  | Individual batch summary 9 written to output/batch_summary_9.md
+12:37:44 | INFO  | Processing batch 10/51 (20 files: 181-200)
+12:37:45 | INFO  | Progress: 17.9% (180/1008) | Success: 180 | Errors: 0 | Elapsed: 2m 35s | ETA: 11m 53s
+12:37:46 | INFO  | Creating batch summary for 20 documents (est. 33112 tokens, 130359 bytes) using gemini-2.0-flash
+12:37:50 | INFO  | Progress: 17.9% (180/1008) | Success: 180 | Errors: 0 | Elapsed: 2m 40s | ETA: 12m 16s
+12:37:55 | INFO  | Progress: 17.9% (180/1008) | Success: 180 | Errors: 0 | Elapsed: 2m 45s | ETA: 12m 39s
+12:38:00 | INFO  | Progress: 17.9% (180/1008) | Success: 180 | Errors: 0 | Elapsed: 2m 50s | ETA: 13m 2s
+12:38:04 | INFO  | Summarized content for batch 10 is 14451 characters
+12:38:04 | INFO  | Individual batch summary 10 written to output/batch_summary_10.md
+12:38:04 | INFO  | Processing batch 11/51 (20 files: 201-220)
+12:38:05 | INFO  | Progress: 19.8% (200/1008) | Success: 200 | Errors: 0 | Elapsed: 2m 55s | ETA: 11m 47s
+12:38:06 | INFO  | Creating batch summary for 20 documents (est. 12983 tokens, 49843 bytes) using gemini-2.0-flash
+12:38:10 | INFO  | Progress: 19.8% (200/1008) | Success: 200 | Errors: 0 | Elapsed: 3m 0s | ETA: 12m 7s
+12:38:15 | INFO  | Progress: 19.8% (200/1008) | Success: 200 | Errors: 0 | Elapsed: 3m 5s | ETA: 12m 27s
+12:38:20 | INFO  | Progress: 19.8% (200/1008) | Success: 200 | Errors: 0 | Elapsed: 3m 10s | ETA: 12m 48s
+12:38:21 | INFO  | Summarized content for batch 11 is 12131 characters
+12:38:21 | INFO  | Individual batch summary 11 written to output/batch_summary_11.md
+12:38:21 | INFO  | Processing batch 12/51 (20 files: 221-240)
+12:38:23 | INFO  | Creating batch summary for 20 documents (est. 25240 tokens, 98871 bytes) using gemini-2.0-flash
+12:38:25 | INFO  | Progress: 21.8% (220/1008) | Success: 220 | Errors: 0 | Elapsed: 3m 15s | ETA: 11m 39s
+12:38:30 | INFO  | Progress: 21.8% (220/1008) | Success: 220 | Errors: 0 | Elapsed: 3m 20s | ETA: 11m 56s
+12:38:35 | INFO  | Progress: 21.8% (220/1008) | Success: 220 | Errors: 0 | Elapsed: 3m 25s | ETA: 12m 14s
+12:38:37 | INFO  | Summarized content for batch 12 is 10901 characters
+12:38:37 | INFO  | Individual batch summary 12 written to output/batch_summary_12.md
+12:38:37 | INFO  | Processing batch 13/51 (20 files: 241-260)
+12:38:39 | INFO  | Creating batch summary for 20 documents (est. 9230 tokens, 34828 bytes) using gemini-2.0-flash
+12:38:40 | INFO  | Progress: 23.8% (240/1008) | Success: 240 | Errors: 0 | Elapsed: 3m 30s | ETA: 11m 12s
+12:38:45 | INFO  | Progress: 23.8% (240/1008) | Success: 240 | Errors: 0 | Elapsed: 3m 35s | ETA: 11m 28s
+12:38:50 | INFO  | Progress: 23.8% (240/1008) | Success: 240 | Errors: 0 | Elapsed: 3m 40s | ETA: 11m 44s
+12:38:53 | INFO  | Summarized content for batch 13 is 11201 characters
+12:38:53 | INFO  | Individual batch summary 13 written to output/batch_summary_13.md
+12:38:53 | INFO  | Processing batch 14/51 (20 files: 261-280)
+12:38:55 | INFO  | Creating batch summary for 20 documents (est. 17541 tokens, 68074 bytes) using gemini-2.0-flash
+12:38:55 | INFO  | Progress: 25.8% (260/1008) | Success: 260 | Errors: 0 | Elapsed: 3m 45s | ETA: 10m 47s
+12:39:00 | INFO  | Progress: 25.8% (260/1008) | Success: 260 | Errors: 0 | Elapsed: 3m 50s | ETA: 11m 2s
+12:39:05 | INFO  | Progress: 25.8% (260/1008) | Success: 260 | Errors: 0 | Elapsed: 3m 55s | ETA: 11m 16s
+12:39:10 | INFO  | Progress: 25.8% (260/1008) | Success: 260 | Errors: 0 | Elapsed: 4m 0s | ETA: 11m 31s
+12:39:11 | INFO  | Summarized content for batch 14 is 12850 characters
+12:39:11 | INFO  | Individual batch summary 14 written to output/batch_summary_14.md
+12:39:11 | INFO  | Processing batch 15/51 (20 files: 281-300)
+12:39:13 | INFO  | Creating batch summary for 20 documents (est. 18654 tokens, 72526 bytes) using gemini-2.0-flash
+12:39:15 | INFO  | Progress: 27.8% (280/1008) | Success: 280 | Errors: 0 | Elapsed: 4m 5s | ETA: 10m 37s
+12:39:20 | INFO  | Progress: 27.8% (280/1008) | Success: 280 | Errors: 0 | Elapsed: 4m 10s | ETA: 10m 50s
+12:39:25 | INFO  | Progress: 27.8% (280/1008) | Success: 280 | Errors: 0 | Elapsed: 4m 15s | ETA: 11m 3s
+12:39:30 | INFO  | Progress: 27.8% (280/1008) | Success: 280 | Errors: 0 | Elapsed: 4m 20s | ETA: 11m 16s
+12:39:31 | INFO  | Summarized content for batch 15 is 13534 characters
+12:39:31 | INFO  | Individual batch summary 15 written to output/batch_summary_15.md
+12:39:31 | INFO  | Processing batch 16/51 (20 files: 301-320)
+12:39:33 | INFO  | Creating batch summary for 20 documents (est. 23478 tokens, 91821 bytes) using gemini-2.0-flash
+12:39:35 | INFO  | Progress: 29.8% (300/1008) | Success: 300 | Errors: 0 | Elapsed: 4m 25s | ETA: 10m 25s
+12:39:40 | INFO  | Progress: 29.8% (300/1008) | Success: 300 | Errors: 0 | Elapsed: 4m 30s | ETA: 10m 37s
+12:39:45 | INFO  | Summarized content for batch 16 is 9584 characters
+12:39:45 | INFO  | Individual batch summary 16 written to output/batch_summary_16.md
+12:39:45 | INFO  | Processing batch 17/51 (20 files: 321-340)
+12:39:45 | INFO  | Progress: 31.7% (320/1008) | Success: 320 | Errors: 0 | Elapsed: 4m 35s | ETA: 9m 51s
+12:39:47 | INFO  | Creating batch summary for 20 documents (est. 38732 tokens, 152839 bytes) using gemini-2.0-flash
+12:39:50 | INFO  | Progress: 31.7% (320/1008) | Success: 320 | Errors: 0 | Elapsed: 4m 40s | ETA: 10m 2s
+12:39:55 | INFO  | Progress: 31.7% (320/1008) | Success: 320 | Errors: 0 | Elapsed: 4m 45s | ETA: 10m 13s
+12:39:55 | INFO  | Summarized content for batch 17 is 8056 characters
+12:39:55 | INFO  | Individual batch summary 17 written to output/batch_summary_17.md
+12:39:55 | INFO  | Processing batch 18/51 (20 files: 341-360)
+12:39:57 | INFO  | Creating batch summary for 20 documents (est. 46229 tokens, 182824 bytes) using gemini-2.0-flash
+12:40:00 | INFO  | Progress: 33.7% (340/1008) | Success: 340 | Errors: 0 | Elapsed: 4m 50s | ETA: 9m 30s
+12:40:05 | INFO  | Progress: 33.7% (340/1008) | Success: 340 | Errors: 0 | Elapsed: 4m 55s | ETA: 9m 40s
+12:40:07 | INFO  | Summarized content for batch 18 is 11134 characters
+12:40:07 | INFO  | Individual batch summary 18 written to output/batch_summary_18.md
+12:40:07 | INFO  | Processing batch 19/51 (20 files: 361-380)
+12:40:09 | INFO  | Creating batch summary for 20 documents (est. 26469 tokens, 103787 bytes) using gemini-2.0-flash
+12:40:10 | INFO  | Progress: 35.7% (360/1008) | Success: 360 | Errors: 0 | Elapsed: 5m 0s | ETA: 9m 0s
+12:40:15 | INFO  | Progress: 35.7% (360/1008) | Success: 360 | Errors: 0 | Elapsed: 5m 5s | ETA: 9m 9s
+12:40:20 | INFO  | Progress: 35.7% (360/1008) | Success: 360 | Errors: 0 | Elapsed: 5m 10s | ETA: 9m 18s
+12:40:25 | INFO  | Progress: 35.7% (360/1008) | Success: 360 | Errors: 0 | Elapsed: 5m 15s | ETA: 9m 27s
+12:40:28 | INFO  | Summarized content for batch 19 is 18389 characters
+12:40:28 | INFO  | Individual batch summary 19 written to output/batch_summary_19.md
+12:40:28 | INFO  | Processing batch 20/51 (20 files: 381-400)
+12:40:30 | INFO  | Creating batch summary for 20 documents (est. 59680 tokens, 236631 bytes) using gemini-2.0-pro
+12:40:30 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:40:30 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:40:30 | INFO  | Progress: 37.7% (380/1008) | Success: 380 | Errors: 0 | Elapsed: 5m 20s | ETA: 8m 49s
+12:40:32 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:40:32 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:40:35 | INFO  | Progress: 37.7% (380/1008) | Success: 380 | Errors: 0 | Elapsed: 5m 25s | ETA: 8m 57s
+12:40:36 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:40:36 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:40:40 | INFO  | Progress: 37.7% (380/1008) | Success: 380 | Errors: 0 | Elapsed: 5m 30s | ETA: 9m 5s
+12:40:44 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:40:44 | INFO  | Summarized content for batch 20 is 0 characters
+12:40:44 | WARN  | Very short response detected for batch 20
+12:40:44 | INFO  | Individual batch summary 20 written to output/batch_summary_20.md
+12:40:44 | INFO  | Processing batch 21/51 (20 files: 401-420)
+12:40:45 | INFO  | Progress: 39.7% (400/1008) | Success: 400 | Errors: 0 | Elapsed: 5m 35s | ETA: 8m 29s
+12:40:46 | INFO  | Creating batch summary for 20 documents (est. 62636 tokens, 248455 bytes) using gemini-2.0-pro
+12:40:46 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:40:46 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:40:48 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:40:48 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:40:50 | INFO  | Progress: 39.7% (400/1008) | Success: 400 | Errors: 0 | Elapsed: 5m 40s | ETA: 8m 37s
+12:40:53 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:40:53 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:40:55 | INFO  | Progress: 39.7% (400/1008) | Success: 400 | Errors: 0 | Elapsed: 5m 45s | ETA: 8m 44s
+12:41:00 | INFO  | Progress: 39.7% (400/1008) | Success: 400 | Errors: 0 | Elapsed: 5m 50s | ETA: 8m 52s
+12:41:01 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:41:01 | INFO  | Summarized content for batch 21 is 0 characters
+12:41:01 | WARN  | Very short response detected for batch 21
+12:41:01 | INFO  | Individual batch summary 21 written to output/batch_summary_21.md
+12:41:01 | INFO  | Processing batch 22/51 (20 files: 421-440)
+12:41:03 | INFO  | Creating batch summary for 20 documents (est. 33075 tokens, 130210 bytes) using gemini-2.0-flash
+12:41:03 | WARN  | Batch Gemini API request failed: googleapi: Error 503:
+12:41:03 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:41:05 | INFO  | Progress: 41.7% (420/1008) | Success: 420 | Errors: 0 | Elapsed: 5m 55s | ETA: 8m 17s
+12:41:10 | INFO  | Progress: 41.7% (420/1008) | Success: 420 | Errors: 0 | Elapsed: 6m 0s | ETA: 8m 24s
+12:41:15 | INFO  | Progress: 41.7% (420/1008) | Success: 420 | Errors: 0 | Elapsed: 6m 5s | ETA: 8m 31s
+12:41:18 | INFO  | Summarized content for batch 22 is 13801 characters
+12:41:18 | INFO  | Individual batch summary 22 written to output/batch_summary_22.md
+12:41:18 | INFO  | Processing batch 23/51 (20 files: 441-460)
+12:41:20 | INFO  | Progress: 43.7% (440/1008) | Success: 440 | Errors: 0 | Elapsed: 6m 10s | ETA: 7m 58s
+12:41:20 | INFO  | Creating batch summary for 20 documents (est. 25173 tokens, 98603 bytes) using gemini-2.0-flash
+12:41:25 | INFO  | Progress: 43.7% (440/1008) | Success: 440 | Errors: 0 | Elapsed: 6m 15s | ETA: 8m 4s
+12:41:30 | INFO  | Progress: 43.7% (440/1008) | Success: 440 | Errors: 0 | Elapsed: 6m 20s | ETA: 8m 11s
+12:41:31 | INFO  | Summarized content for batch 23 is 12142 characters
+12:41:31 | INFO  | Individual batch summary 23 written to output/batch_summary_23.md
+12:41:31 | INFO  | Processing batch 24/51 (20 files: 461-480)
+12:41:33 | INFO  | Creating batch summary for 20 documents (est. 16509 tokens, 63944 bytes) using gemini-2.0-flash
+12:41:35 | INFO  | Progress: 45.6% (460/1008) | Success: 460 | Errors: 0 | Elapsed: 6m 25s | ETA: 7m 39s
+12:41:40 | INFO  | Progress: 45.6% (460/1008) | Success: 460 | Errors: 0 | Elapsed: 6m 30s | ETA: 7m 45s
+12:41:45 | INFO  | Progress: 45.6% (460/1008) | Success: 460 | Errors: 0 | Elapsed: 6m 35s | ETA: 7m 51s
+12:41:50 | INFO  | Progress: 45.6% (460/1008) | Success: 460 | Errors: 0 | Elapsed: 6m 40s | ETA: 7m 57s
+12:41:55 | INFO  | Progress: 45.6% (460/1008) | Success: 460 | Errors: 0 | Elapsed: 6m 45s | ETA: 8m 3s
+12:41:57 | INFO  | Summarized content for batch 24 is 17770 characters
+12:41:57 | INFO  | Individual batch summary 24 written to output/batch_summary_24.md
+12:41:57 | INFO  | Processing batch 25/51 (20 files: 481-500)
+12:41:59 | INFO  | Creating batch summary for 20 documents (est. 20626 tokens, 80414 bytes) using gemini-2.0-flash
+12:42:00 | INFO  | Progress: 47.6% (480/1008) | Success: 480 | Errors: 0 | Elapsed: 6m 50s | ETA: 7m 31s
+12:42:05 | INFO  | Progress: 47.6% (480/1008) | Success: 480 | Errors: 0 | Elapsed: 6m 55s | ETA: 7m 37s
+12:42:10 | INFO  | Progress: 47.6% (480/1008) | Success: 480 | Errors: 0 | Elapsed: 7m 0s | ETA: 7m 42s
+12:42:14 | INFO  | Summarized content for batch 25 is 12068 characters
+12:42:14 | INFO  | Individual batch summary 25 written to output/batch_summary_25.md
+12:42:14 | INFO  | Processing batch 26/51 (20 files: 501-520)
+12:42:15 | INFO  | Progress: 49.6% (500/1008) | Success: 500 | Errors: 0 | Elapsed: 7m 5s | ETA: 7m 12s
+12:42:16 | INFO  | Creating batch summary for 20 documents (est. 14003 tokens, 53921 bytes) using gemini-2.0-flash
+12:42:20 | INFO  | Progress: 49.6% (500/1008) | Success: 500 | Errors: 0 | Elapsed: 7m 10s | ETA: 7m 17s
+12:42:25 | INFO  | Progress: 49.6% (500/1008) | Success: 500 | Errors: 0 | Elapsed: 7m 15s | ETA: 7m 22s
+12:42:30 | INFO  | Summarized content for batch 26 is 9934 characters
+12:42:30 | INFO  | Individual batch summary 26 written to output/batch_summary_26.md
+12:42:30 | INFO  | Processing batch 27/51 (20 files: 521-540)
+12:42:30 | INFO  | Progress: 51.6% (520/1008) | Success: 520 | Errors: 0 | Elapsed: 7m 20s | ETA: 6m 53s
+12:42:32 | INFO  | Creating batch summary for 20 documents (est. 40757 tokens, 160937 bytes) using gemini-2.0-flash
+12:42:35 | INFO  | Progress: 51.6% (520/1008) | Success: 520 | Errors: 0 | Elapsed: 7m 25s | ETA: 6m 58s
+12:42:40 | INFO  | Progress: 51.6% (520/1008) | Success: 520 | Errors: 0 | Elapsed: 7m 30s | ETA: 7m 2s
+12:42:41 | INFO  | Summarized content for batch 27 is 10223 characters
+12:42:41 | INFO  | Individual batch summary 27 written to output/batch_summary_27.md
+12:42:41 | INFO  | Processing batch 28/51 (20 files: 541-560)
+12:42:43 | INFO  | Creating batch summary for 20 documents (est. 23946 tokens, 93694 bytes) using gemini-2.0-flash
+12:42:45 | INFO  | Progress: 53.6% (540/1008) | Success: 540 | Errors: 0 | Elapsed: 7m 35s | ETA: 6m 34s
+12:42:50 | INFO  | Progress: 53.6% (540/1008) | Success: 540 | Errors: 0 | Elapsed: 7m 40s | ETA: 6m 39s
+12:42:55 | INFO  | Progress: 53.6% (540/1008) | Success: 540 | Errors: 0 | Elapsed: 7m 45s | ETA: 6m 43s
+12:42:57 | INFO  | Summarized content for batch 28 is 11390 characters
+12:42:57 | INFO  | Individual batch summary 28 written to output/batch_summary_28.md
+12:42:57 | INFO  | Processing batch 29/51 (20 files: 561-580)
+12:42:59 | INFO  | Creating batch summary for 20 documents (est. 64909 tokens, 257547 bytes) using gemini-2.0-pro
+12:43:00 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:43:00 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:43:00 | INFO  | Progress: 55.6% (560/1008) | Success: 560 | Errors: 0 | Elapsed: 7m 50s | ETA: 6m 16s
+12:43:02 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:43:02 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:43:05 | INFO  | Progress: 55.6% (560/1008) | Success: 560 | Errors: 0 | Elapsed: 7m 55s | ETA: 6m 20s
+12:43:06 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:43:06 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:43:10 | INFO  | Progress: 55.6% (560/1008) | Success: 560 | Errors: 0 | Elapsed: 8m 0s | ETA: 6m 24s
+12:43:14 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:43:14 | INFO  | Summarized content for batch 29 is 0 characters
+12:43:14 | WARN  | Very short response detected for batch 29
+12:43:14 | INFO  | Individual batch summary 29 written to output/batch_summary_29.md
+12:43:14 | INFO  | Processing batch 30/51 (20 files: 581-600)
+12:43:15 | INFO  | Progress: 57.5% (580/1008) | Success: 580 | Errors: 0 | Elapsed: 8m 5s | ETA: 5m 58s
+12:43:16 | INFO  | Creating batch summary for 20 documents (est. 29327 tokens, 115218 bytes) using gemini-2.0-flash
+12:43:20 | INFO  | Progress: 57.5% (580/1008) | Success: 580 | Errors: 0 | Elapsed: 8m 10s | ETA: 6m 2s
+12:43:24 | INFO  | Summarized content for batch 30 is 9900 characters
+12:43:24 | INFO  | Individual batch summary 30 written to output/batch_summary_30.md
+12:43:24 | INFO  | Processing batch 31/51 (20 files: 601-620)
+12:43:25 | INFO  | Progress: 59.5% (600/1008) | Success: 600 | Errors: 0 | Elapsed: 8m 15s | ETA: 5m 37s
+12:43:26 | INFO  | Creating batch summary for 20 documents (est. 32570 tokens, 128188 bytes) using gemini-2.0-flash
+12:43:30 | INFO  | Progress: 59.5% (600/1008) | Success: 600 | Errors: 0 | Elapsed: 8m 20s | ETA: 5m 40s
+12:43:35 | INFO  | Progress: 59.5% (600/1008) | Success: 600 | Errors: 0 | Elapsed: 8m 25s | ETA: 5m 43s
+12:43:39 | INFO  | Summarized content for batch 31 is 13452 characters
+12:43:39 | INFO  | Individual batch summary 31 written to output/batch_summary_31.md
+12:43:39 | INFO  | Processing batch 32/51 (20 files: 621-640)
+12:43:40 | INFO  | Progress: 61.5% (620/1008) | Success: 620 | Errors: 0 | Elapsed: 8m 30s | ETA: 5m 19s
+12:43:41 | INFO  | Creating batch summary for 20 documents (est. 28809 tokens, 113145 bytes) using gemini-2.0-flash
+12:43:45 | INFO  | Progress: 61.5% (620/1008) | Success: 620 | Errors: 0 | Elapsed: 8m 35s | ETA: 5m 22s
+12:43:50 | INFO  | Progress: 61.5% (620/1008) | Success: 620 | Errors: 0 | Elapsed: 8m 40s | ETA: 5m 25s
+12:43:52 | INFO  | Summarized content for batch 32 is 11900 characters
+12:43:52 | INFO  | Individual batch summary 32 written to output/batch_summary_32.md
+12:43:52 | INFO  | Processing batch 33/51 (20 files: 641-660)
+12:43:54 | INFO  | Creating batch summary for 20 documents (est. 37148 tokens, 146502 bytes) using gemini-2.0-flash
+12:43:55 | INFO  | Progress: 63.5% (640/1008) | Success: 640 | Errors: 0 | Elapsed: 8m 45s | ETA: 5m 2s
+12:44:00 | INFO  | Progress: 63.5% (640/1008) | Success: 640 | Errors: 0 | Elapsed: 8m 50s | ETA: 5m 5s
+12:44:05 | INFO  | Progress: 63.5% (640/1008) | Success: 640 | Errors: 0 | Elapsed: 8m 55s | ETA: 5m 8s
+12:44:05 | INFO  | Summarized content for batch 33 is 12951 characters
+12:44:05 | INFO  | Individual batch summary 33 written to output/batch_summary_33.md
+12:44:05 | INFO  | Processing batch 34/51 (20 files: 661-680)
+12:44:07 | INFO  | Creating batch summary for 20 documents (est. 33046 tokens, 130092 bytes) using gemini-2.0-flash
+12:44:10 | INFO  | Progress: 65.5% (660/1008) | Success: 660 | Errors: 0 | Elapsed: 9m 0s | ETA: 4m 45s
+12:44:15 | INFO  | Progress: 65.5% (660/1008) | Success: 660 | Errors: 0 | Elapsed: 9m 5s | ETA: 4m 47s
+12:44:19 | INFO  | Summarized content for batch 34 is 12325 characters
+12:44:19 | INFO  | Individual batch summary 34 written to output/batch_summary_34.md
+12:44:19 | INFO  | Processing batch 35/51 (20 files: 681-700)
+12:44:20 | INFO  | Progress: 67.5% (680/1008) | Success: 680 | Errors: 0 | Elapsed: 9m 10s | ETA: 4m 25s
+12:44:21 | INFO  | Creating batch summary for 20 documents (est. 20774 tokens, 81004 bytes) using gemini-2.0-flash
+12:44:25 | INFO  | Progress: 67.5% (680/1008) | Success: 680 | Errors: 0 | Elapsed: 9m 15s | ETA: 4m 28s
+12:44:30 | INFO  | Progress: 67.5% (680/1008) | Success: 680 | Errors: 0 | Elapsed: 9m 20s | ETA: 4m 30s
+12:44:34 | INFO  | Summarized content for batch 35 is 9498 characters
+12:44:34 | INFO  | Individual batch summary 35 written to output/batch_summary_35.md
+12:44:34 | INFO  | Processing batch 36/51 (20 files: 701-720)
+12:44:35 | INFO  | Progress: 69.4% (700/1008) | Success: 700 | Errors: 0 | Elapsed: 9m 25s | ETA: 4m 9s
+12:44:36 | INFO  | Creating batch summary for 20 documents (est. 48859 tokens, 193345 bytes) using gemini-2.0-flash
+12:44:40 | INFO  | Progress: 69.4% (700/1008) | Success: 700 | Errors: 0 | Elapsed: 9m 30s | ETA: 4m 11s
+12:44:45 | INFO  | Summarized content for batch 36 is 9470 characters
+12:44:45 | INFO  | Individual batch summary 36 written to output/batch_summary_36.md
+12:44:45 | INFO  | Processing batch 37/51 (20 files: 721-740)
+12:44:45 | INFO  | Progress: 71.4% (720/1008) | Success: 720 | Errors: 0 | Elapsed: 9m 35s | ETA: 3m 50s
+12:44:47 | INFO  | Creating batch summary for 20 documents (est. 66891 tokens, 265473 bytes) using gemini-2.0-pro
+12:44:47 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:44:47 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:44:49 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:44:49 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:44:50 | INFO  | Progress: 71.4% (720/1008) | Success: 720 | Errors: 0 | Elapsed: 9m 40s | ETA: 3m 52s
+12:44:54 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:44:54 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:44:55 | INFO  | Progress: 71.4% (720/1008) | Success: 720 | Errors: 0 | Elapsed: 9m 45s | ETA: 3m 54s
+12:45:00 | INFO  | Progress: 71.4% (720/1008) | Success: 720 | Errors: 0 | Elapsed: 9m 50s | ETA: 3m 56s
+12:45:02 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:45:02 | INFO  | Summarized content for batch 37 is 0 characters
+12:45:02 | WARN  | Very short response detected for batch 37
+12:45:02 | INFO  | Individual batch summary 37 written to output/batch_summary_37.md
+12:45:02 | INFO  | Processing batch 38/51 (20 files: 741-760)
+12:45:04 | INFO  | Creating batch summary for 20 documents (est. 24049 tokens, 94107 bytes) using gemini-2.0-flash
+12:45:05 | INFO  | Progress: 73.4% (740/1008) | Success: 740 | Errors: 0 | Elapsed: 9m 55s | ETA: 3m 36s
+12:45:10 | INFO  | Progress: 73.4% (740/1008) | Success: 740 | Errors: 0 | Elapsed: 10m 0s | ETA: 3m 37s
+12:45:15 | INFO  | Progress: 73.4% (740/1008) | Success: 740 | Errors: 0 | Elapsed: 10m 5s | ETA: 3m 39s
+12:45:17 | INFO  | Summarized content for batch 38 is 11037 characters
+12:45:17 | INFO  | Individual batch summary 38 written to output/batch_summary_38.md
+12:45:17 | INFO  | Processing batch 39/51 (20 files: 761-780)
+12:45:19 | INFO  | Creating batch summary for 20 documents (est. 97656 tokens, 388532 bytes) using gemini-2.0-pro
+12:45:19 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:45:19 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:45:20 | INFO  | Progress: 75.4% (760/1008) | Success: 760 | Errors: 0 | Elapsed: 10m 10s | ETA: 3m 19s
+12:45:21 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:45:21 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:45:25 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:45:25 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:45:25 | INFO  | Progress: 75.4% (760/1008) | Success: 760 | Errors: 0 | Elapsed: 10m 15s | ETA: 3m 21s
+12:45:30 | INFO  | Progress: 75.4% (760/1008) | Success: 760 | Errors: 0 | Elapsed: 10m 20s | ETA: 3m 22s
+12:45:33 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:45:33 | INFO  | Summarized content for batch 39 is 0 characters
+12:45:33 | WARN  | Very short response detected for batch 39
+12:45:33 | INFO  | Individual batch summary 39 written to output/batch_summary_39.md
+12:45:33 | INFO  | Processing batch 40/51 (20 files: 781-800)
+12:45:35 | INFO  | Progress: 77.4% (780/1008) | Success: 780 | Errors: 0 | Elapsed: 10m 25s | ETA: 3m 3s
+12:45:35 | INFO  | Creating batch summary for 20 documents (est. 39009 tokens, 153945 bytes) using gemini-2.0-flash
+12:45:40 | INFO  | Progress: 77.4% (780/1008) | Success: 780 | Errors: 0 | Elapsed: 10m 30s | ETA: 3m 4s
+12:45:45 | INFO  | Summarized content for batch 40 is 9763 characters
+12:45:45 | INFO  | Individual batch summary 40 written to output/batch_summary_40.md
+12:45:45 | INFO  | Processing batch 41/51 (20 files: 801-820)
+12:45:45 | INFO  | Progress: 79.4% (800/1008) | Success: 800 | Errors: 0 | Elapsed: 10m 35s | ETA: 2m 45s
+12:45:47 | INFO  | Creating batch summary for 20 documents (est. 6242 tokens, 22877 bytes) using gemini-2.0-flash
+12:45:50 | INFO  | Progress: 79.4% (800/1008) | Success: 800 | Errors: 0 | Elapsed: 10m 40s | ETA: 2m 46s
+12:45:55 | INFO  | Progress: 79.4% (800/1008) | Success: 800 | Errors: 0 | Elapsed: 10m 45s | ETA: 2m 48s
+12:46:00 | INFO  | Progress: 79.4% (800/1008) | Success: 800 | Errors: 0 | Elapsed: 10m 50s | ETA: 2m 49s
+12:46:01 | INFO  | Summarized content for batch 41 is 10366 characters
+12:46:01 | INFO  | Individual batch summary 41 written to output/batch_summary_41.md
+12:46:01 | INFO  | Processing batch 42/51 (20 files: 821-840)
+12:46:03 | INFO  | Creating batch summary for 20 documents (est. 29724 tokens, 116805 bytes) using gemini-2.0-flash
+12:46:05 | INFO  | Progress: 81.3% (820/1008) | Success: 820 | Errors: 0 | Elapsed: 10m 55s | ETA: 2m 30s
+12:46:10 | INFO  | Progress: 81.3% (820/1008) | Success: 820 | Errors: 0 | Elapsed: 11m 0s | ETA: 2m 31s
+12:46:13 | INFO  | Summarized content for batch 42 is 12302 characters
+12:46:13 | INFO  | Individual batch summary 42 written to output/batch_summary_42.md
+12:46:13 | INFO  | Processing batch 43/51 (20 files: 841-860)
+12:46:15 | INFO  | Creating batch summary for 20 documents (est. 37152 tokens, 146519 bytes) using gemini-2.0-flash
+12:46:15 | INFO  | Progress: 83.3% (840/1008) | Success: 840 | Errors: 0 | Elapsed: 11m 5s | ETA: 2m 13s
+12:46:20 | INFO  | Progress: 83.3% (840/1008) | Success: 840 | Errors: 0 | Elapsed: 11m 10s | ETA: 2m 14s
+12:46:24 | INFO  | Summarized content for batch 43 is 10360 characters
+12:46:24 | INFO  | Individual batch summary 43 written to output/batch_summary_43.md
+12:46:24 | INFO  | Processing batch 44/51 (20 files: 861-880)
+12:46:25 | INFO  | Progress: 85.3% (860/1008) | Success: 860 | Errors: 0 | Elapsed: 11m 15s | ETA: 1m 56s
+12:46:26 | INFO  | Creating batch summary for 20 documents (est. 22348 tokens, 87302 bytes) using gemini-2.0-flash
+12:46:30 | INFO  | Progress: 85.3% (860/1008) | Success: 860 | Errors: 0 | Elapsed: 11m 20s | ETA: 1m 57s
+12:46:35 | INFO  | Progress: 85.3% (860/1008) | Success: 860 | Errors: 0 | Elapsed: 11m 25s | ETA: 1m 58s
+12:46:39 | INFO  | Summarized content for batch 44 is 9512 characters
+12:46:39 | INFO  | Individual batch summary 44 written to output/batch_summary_44.md
+12:46:39 | INFO  | Processing batch 45/51 (20 files: 881-900)
+12:46:40 | INFO  | Progress: 87.3% (880/1008) | Success: 880 | Errors: 0 | Elapsed: 11m 30s | ETA: 1m 40s
+12:46:41 | INFO  | Creating batch summary for 20 documents (est. 18630 tokens, 72429 bytes) using gemini-2.0-flash
+12:46:45 | INFO  | Progress: 87.3% (880/1008) | Success: 880 | Errors: 0 | Elapsed: 11m 35s | ETA: 1m 41s
+12:46:50 | INFO  | Progress: 87.3% (880/1008) | Success: 880 | Errors: 0 | Elapsed: 11m 40s | ETA: 1m 42s
+12:46:54 | INFO  | Summarized content for batch 45 is 10775 characters
+12:46:54 | INFO  | Individual batch summary 45 written to output/batch_summary_45.md
+12:46:54 | INFO  | Processing batch 46/51 (20 files: 901-920)
+12:46:55 | INFO  | Progress: 89.3% (900/1008) | Success: 900 | Errors: 0 | Elapsed: 11m 45s | ETA: 1m 25s
+12:46:56 | INFO  | Creating batch summary for 20 documents (est. 65020 tokens, 257989 bytes) using gemini-2.0-pro
+12:46:56 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:46:56 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:46:59 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:46:59 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:47:00 | INFO  | Progress: 89.3% (900/1008) | Success: 900 | Errors: 0 | Elapsed: 11m 50s | ETA: 1m 25s
+12:47:03 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:47:03 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:47:05 | INFO  | Progress: 89.3% (900/1008) | Success: 900 | Errors: 0 | Elapsed: 11m 55s | ETA: 1m 26s
+12:47:10 | INFO  | Progress: 89.3% (900/1008) | Success: 900 | Errors: 0 | Elapsed: 12m 0s | ETA: 1m 26s
+12:47:11 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:47:11 | INFO  | Summarized content for batch 46 is 0 characters
+12:47:11 | WARN  | Very short response detected for batch 46
+12:47:11 | INFO  | Individual batch summary 46 written to output/batch_summary_46.md
+12:47:11 | INFO  | Processing batch 47/51 (20 files: 921-940)
+12:47:13 | INFO  | Creating batch summary for 20 documents (est. 25551 tokens, 100113 bytes) using gemini-2.0-flash
+12:47:15 | INFO  | Progress: 91.3% (920/1008) | Success: 920 | Errors: 0 | Elapsed: 12m 5s | ETA: 1m 9s
+12:47:20 | INFO  | Progress: 91.3% (920/1008) | Success: 920 | Errors: 0 | Elapsed: 12m 10s | ETA: 1m 10s
+12:47:25 | INFO  | Progress: 91.3% (920/1008) | Success: 920 | Errors: 0 | Elapsed: 12m 15s | ETA: 1m 10s
+12:47:30 | INFO  | Progress: 91.3% (920/1008) | Success: 920 | Errors: 0 | Elapsed: 12m 20s | ETA: 1m 11s
+12:47:32 | INFO  | Summarized content for batch 47 is 16055 characters
+12:47:32 | INFO  | Individual batch summary 47 written to output/batch_summary_47.md
+12:47:32 | INFO  | Processing batch 48/51 (20 files: 941-960)
+12:47:34 | INFO  | Creating batch summary for 20 documents (est. 33867 tokens, 133376 bytes) using gemini-2.0-flash
+12:47:35 | INFO  | Progress: 93.3% (940/1008) | Success: 940 | Errors: 0 | Elapsed: 12m 25s | ETA: 54s
+12:47:40 | INFO  | Progress: 93.3% (940/1008) | Success: 940 | Errors: 0 | Elapsed: 12m 30s | ETA: 54s
+12:47:45 | INFO  | Progress: 93.3% (940/1008) | Success: 940 | Errors: 0 | Elapsed: 12m 35s | ETA: 55s
+12:47:46 | INFO  | Summarized content for batch 48 is 11487 characters
+12:47:46 | INFO  | Individual batch summary 48 written to output/batch_summary_48.md
+12:47:46 | INFO  | Processing batch 49/51 (20 files: 961-980)
+12:47:48 | INFO  | Creating batch summary for 20 documents (est. 36850 tokens, 145308 bytes) using gemini-2.0-flash
+12:47:50 | INFO  | Progress: 95.2% (960/1008) | Success: 960 | Errors: 0 | Elapsed: 12m 40s | ETA: 38s
+12:47:55 | INFO  | Progress: 95.2% (960/1008) | Success: 960 | Errors: 0 | Elapsed: 12m 45s | ETA: 38s
+12:48:00 | INFO  | Progress: 95.2% (960/1008) | Success: 960 | Errors: 0 | Elapsed: 12m 50s | ETA: 39s
+12:48:05 | INFO  | Progress: 95.2% (960/1008) | Success: 960 | Errors: 0 | Elapsed: 12m 55s | ETA: 39s
+12:48:06 | INFO  | Summarized content for batch 49 is 21287 characters
+12:48:06 | INFO  | Individual batch summary 49 written to output/batch_summary_49.md
+12:48:06 | INFO  | Processing batch 50/51 (20 files: 981-1000)
+12:48:08 | INFO  | Creating batch summary for 20 documents (est. 82507 tokens, 327937 bytes) using gemini-2.0-pro
+12:48:08 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:08 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:48:10 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:10 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:48:10 | INFO  | Progress: 97.2% (980/1008) | Success: 980 | Errors: 0 | Elapsed: 13m 0s | ETA: 22s
+12:48:14 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:14 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:48:15 | INFO  | Progress: 97.2% (980/1008) | Success: 980 | Errors: 0 | Elapsed: 13m 5s | ETA: 22s
+12:48:20 | INFO  | Progress: 97.2% (980/1008) | Success: 980 | Errors: 0 | Elapsed: 13m 10s | ETA: 23s
+12:48:22 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:22 | INFO  | Summarized content for batch 50 is 0 characters
+12:48:22 | WARN  | Very short response detected for batch 50
+12:48:22 | INFO  | Individual batch summary 50 written to output/batch_summary_50.md
+12:48:22 | INFO  | Processing batch 51/51 (8 files: 1001-1008)
+12:48:24 | INFO  | Creating batch summary for 8 documents (est. 54918 tokens, 217581 bytes) using gemini-2.0-pro
+12:48:25 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:25 | INFO  | Retrying batch Gemini API request (attempt 1/3)
+12:48:25 | INFO  | Progress: 99.2% (1000/1008) | Success: 1000 | Errors: 0 | Elapsed: 13m 15s | ETA: 6s
+12:48:27 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:27 | INFO  | Retrying batch Gemini API request (attempt 2/3)
+12:48:30 | INFO  | Progress: 99.2% (1000/1008) | Success: 1000 | Errors: 0 | Elapsed: 13m 20s | ETA: 6s
+12:48:31 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:31 | INFO  | Retrying batch Gemini API request (attempt 3/3)
+12:48:35 | INFO  | Progress: 99.2% (1000/1008) | Success: 1000 | Errors: 0 | Elapsed: 13m 25s | ETA: 6s
+12:48:39 | WARN  | Batch Gemini API request failed: googleapi: Error 404:
+12:48:39 | INFO  | Summarized content for batch 51 is 0 characters
+12:48:39 | WARN  | Very short response detected for batch 51
+12:48:39 | INFO  | Individual batch summary 51 written to output/batch_summary_51.md
+12:48:39 | INFO  | Processing complete
+12:48:39 | INFO  |
+Processing Summary:
+12:48:39 | INFO  | Total files: 1008
+12:48:39 | INFO  | Successfully processed: 1008
+12:48:39 | INFO  | Errors: 0
+12:48:39 | INFO  | Successfully read files: 1008
+12:48:39 | INFO  | Total time: 13m 29s
+12:48:39 | INFO  | Average time per file: 1s
