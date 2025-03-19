@@ -1,4 +1,4 @@
-# 🔍 Declassified JFK Files Summary
+# 🔍 Declassified JFK Files
 
 ## 📜 Overview
 This repository contains AI-generated summaries of declassified JFK assassination files. With over 1,000 original documents, this project makes these historical records more accessible and digestible.
@@ -10,6 +10,7 @@ The documents explore the investigation of **Lee Harvey Oswald** and his connect
 ### TODO
 - Add more details about the content of the files
 - Include the Go code used to process the files (work in progress to improve a bit)
+- Create AI rephrased files of the JFK documents in markdown format for easier reading
 
 ### Tldr;
 - **Oswald's movements and contacts** – His trip to Helsinki and interactions with Soviet officials.  
